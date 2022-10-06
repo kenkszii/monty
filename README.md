@@ -28,4 +28,4 @@ File | Description
 [strtow.c](./strtow.c) | string tokenizing functions
 [free.c](./free.c) | memory handling functions
 [char.c](./char.c) | handler functions for ascii instructions
-[bf](./bf) | Advanced tasks: Brainf*ck programs
+[bf](./bf) | Advanced tasks: Brainf*ck programs.
